@@ -16,7 +16,7 @@ Alguma das medidas usadas:
 
 1. Para visualização foi necessario tratamento atráves do Power Query para tratar os dados:
 
-![data-original](./dados/imagem/data_original.png "data orignal")
+![data-original](./dados/imagem/data-original.png "data orignal")
 
 2. Visto que é a formatação é americana então foi necessario alterar apenas a localidade dos dados:
 
@@ -24,7 +24,7 @@ Alguma das medidas usadas:
 
 3. E como resultado:
 
-![data-final](./dados/imagem/data_final.png "data final")
+![data-final](./dados/imagem/data-final.png "data final")
 
 4. E agora podemos utilizar a medida:
 
