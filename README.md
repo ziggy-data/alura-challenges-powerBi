@@ -74,4 +74,11 @@ Alguma das medidas usadas:
 Relacionamento das tabelas:
 
 ![relacionamento1](./dados/semana1/imagem/relacionamento1.png "Relacionamento")
-   
+  
+## Resultado da Dashboard:
+
+![dashboard1](./dados/semana1/imagem/dashboard-logistica.png "Dashboard Logistica")
+  
+## Link da Dashboard Logistíca:
+https://app.powerbi.com/reportEmbed?reportId=d47281b5-ef71-4a0d-b6ed-9d81dd1b3e74&autoAuth=true&ctid=da49a844-e2e3-40af-86a6-c3819d704f49&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
+
