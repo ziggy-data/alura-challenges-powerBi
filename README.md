@@ -7,8 +7,8 @@ Na primeira semana deste projeto, recebemos um banco de dados de uma empresa de 
 
 Um exemplo da transformações de dados:
 
-![categoria-inicio](./dados/imagem/categoria-inicio.png "Categoria antes")
-![categoria-final](./dados/imagem/categoria-final.png "Categoria depois")
+![categoria-inicio](./dados/semana1/imagem/categoria-inicio.png "Categoria antes")
+![categoria-final](./dados/semana1/imagem/categoria-final.png "Categoria depois")
 
 Alguma das medidas usadas:
 
@@ -16,15 +16,15 @@ Alguma das medidas usadas:
 
 1. Para visualização foi necessario tratamento atráves do Power Query para tratar os dados:
 
-![data-original](./dados/imagem/data-original.png "data orignal")
+![data-original](./dados/semana1/imagem/data-original.png "data orignal")
 
 2. Visto que é a formatação é americana então foi necessario alterar apenas a localidade dos dados:
 
-![alteracao-data](./dados/imagem/alteracao-data.png "alteracao dos dados")
+![alteracao-data](./dados/semana1/imagem/alteracao-data.png "alteracao dos dados")
 
 3. E como resultado:
 
-![data-final](./dados/imagem/data-final.png "data final")
+![data-final](./dados/semana1/imagem/data-final.png "data final")
 
 4. E agora podemos utilizar a medida:
 
@@ -73,5 +73,5 @@ Alguma das medidas usadas:
     ```
 Relacionamento das tabelas:
 
-![relacionamento1](./dados/imagem/relacionamento1.png "Relacionamento")
+![relacionamento1](./dados/semana1/imagem/relacionamento1.png "Relacionamento")
    
