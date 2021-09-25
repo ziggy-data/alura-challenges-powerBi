@@ -110,6 +110,6 @@ Não tem relacionamento entre as tabelas
 ## Link para Dashboard
 
 
-##imagem da Dashboard
+## imagem da Dashboard
 
-![dashboard2](./dados/semana2/imagem/dashboard-marketing.png "Dashboard Marketing")
+![dashboard2](./semana2/imagem/dashboard-marketing.png "Dashboard Marketing")
