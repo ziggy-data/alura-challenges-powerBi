@@ -109,7 +109,7 @@ Não tem relacionamento entre as tabelas
 
 ## Link para Dashboard
 
-https://app.powerbi.com/links/m-l1jyJLhm?ctid=da49a844-e2e3-40af-86a6-c3819d704f49&pbi_source=linkShare
+https://app.powerbi.com/reportEmbed?reportId=3525c5ad-c48e-42e6-a046-94f220c402dc&autoAuth=true&ctid=da49a844-e2e3-40af-86a6-c3819d704f49&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
 
 ## imagem da Dashboard
 
