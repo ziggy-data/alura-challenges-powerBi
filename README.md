@@ -82,3 +82,34 @@ Relacionamento das tabelas:
 ## Link da Dashboard Logistíca:
 https://app.powerbi.com/reportEmbed?reportId=d47281b5-ef71-4a0d-b6ed-9d81dd1b3e74&autoAuth=true&ctid=da49a844-e2e3-40af-86a6-c3819d704f49&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
 
+
+## Segunda semana: Desafio Marketing
+Este conteúdo foi desenvolvido durante no evento "Alura Challenges" , onde temos contato adquirimos experiência com assuntos relacionados com a nossa área de Data Science em BI. 
+
+O foco nessa semana foi em métricas.
+
+
+## Tratamento de Dados
+
+Não foi necessário realizar o tratamento dos dados
+
+## Métricas 
+
+* CPC
+* Ticket Médio por dispositivos
+* ROAS
+* Total de compras 
+* Valor investido na campanha total
+* Total de valor convertido em compras
+* Valor convertido em compras por dia
+* Taxa de conversao em compras 
+
+## Relacionamentos
+Não tem relacionamento entre as tabelas
+
+## Link para Dashboard
+
+
+##imagem da Dashboard
+
+![dashboard2](./dados/semana2/imagem/dashboard-marketing.png "Dashboard Marketing")
