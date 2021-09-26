@@ -107,6 +107,39 @@ Não foi necessário realizar o tratamento dos dados
 ## Relacionamentos
 Não tem relacionamento entre as tabelas
 
+## Algumas medidas:
+
+*  CPC:
+
+```
+
+Custo por click = divide(
+sum(Tabela_idade_e_genero[Quantia gasta (BRL)]),
+SUM(Tabela_idade_e_genero[Cliques no link])
+)
+
+```
+
+*  Valor convertido em compras: 
+```
+
+Valor convertido em compras = sum (Tabela_idade_e_genero[Valor de conversão de compras])
+
+```
+
+* ROAS:
+```
+
+ROAS = sum(Tabela_idade_e_genero[Valor de conversão de compras])/SUM(Tabela_idade_e_genero[Quantia gasta (BRL)])
+
+```
+* Taxa de conversão de click em compras (%):
+```
+
+Taxa de conversão = sum(Tabela_idade_e_genero[Compras])/sum(Tabela_idade_e_genero[Visualizações por página])
+
+```
+
 ## Link para Dashboard
 
 https://app.powerbi.com/reportEmbed?reportId=3525c5ad-c48e-42e6-a046-94f220c402dc&autoAuth=true&ctid=da49a844-e2e3-40af-86a6-c3819d704f49&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
