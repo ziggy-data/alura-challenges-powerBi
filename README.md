@@ -95,9 +95,9 @@ Não foi necessário realizar o tratamento dos dados
 
 ## Métricas 
 
-* CPC
+* CPC (Custo por click)
 * Ticket Médio por dispositivos
-* ROAS
+* ROAS (Retorno sobre ativos)
 * Total de compras 
 * Valor investido na campanha total
 * Total de valor convertido em compras
