@@ -94,6 +94,7 @@ O foco nessa semana foi em métricas.
  * Alteração de tipos de dados
  * Preenchimento de valores vazios por "0" 
  * Remoção da coluna vazia FIELD4
+ * Todas as colunas foram Limpas, Cortadas e tiveram cada palavra colocada em maiúscula
  
 ## Métricas 
 
