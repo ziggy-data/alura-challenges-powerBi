@@ -91,8 +91,10 @@ O foco nessa semana foi em métricas.
 
 ## Tratamento de Dados
 
-Não foi necessário realizar o tratamento dos dados
-
+ * Alteração de tipos de dados
+ * Preenchimento de valores vazios por "0" 
+ * Remoção da coluna vazia FIELD4
+ 
 ## Métricas 
 
 * CPC (Custo por click)
