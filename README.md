@@ -105,7 +105,7 @@ Não foi necessário realizar o tratamento dos dados
 * Taxa de conversao em compras 
 
 ## Relacionamentos
-Não tem relacionamento entre as tabelas
+![relacionamento2](./semana2/imagem/relacionamento2.png "Relacionamento2")
 
 ## Algumas medidas:
 
